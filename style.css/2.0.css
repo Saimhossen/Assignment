@@ -26,3 +26,12 @@
     border-radius: 8px;
     font-size: 18px;
 }
+.section{
+    /* align-items: center; */
+}
+.title-box{
+    display: flex;
+    gap: 100px;
+
+    
+}
