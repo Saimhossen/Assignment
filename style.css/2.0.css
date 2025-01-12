@@ -1,0 +1,28 @@
+.colour{
+    color: rgba(14, 14, 14, 0.50);
+    font-size: medium;.
+    width: 24PX;
+}
+.h1-title{
+    font-weight: bold
+}
+.main-banner{
+    display: flex;
+    align-items: center;
+    background-color: #C6E4D6;
+    justify-content: space-between;
+    margin: 100px 160px;
+    justify-items: flex-end;
+    border-radius: 24px;
+}
+.banner{
+    padding: 117px 600px 117px 60px;
+}
+.btn-primary{
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 17px 34px;
+    border-radius: 8px;
+    font-size: 18px;
+}
